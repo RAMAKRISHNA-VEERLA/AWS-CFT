@@ -10,7 +10,7 @@
         "InstanceType" : "t2.micro",
         "SecurityGroups" : [ { "Ref" : "InstanceSecurityGroup" } ],
         "KeyName" : "virginia-keypair",
-        "ImageId" : "ami-09c61c4850b7465cb"
+        "ImageId" : "ami-00dc79254d0461090"
       }
     },
 
